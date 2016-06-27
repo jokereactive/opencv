@@ -65,7 +65,7 @@ namespace cv
 #if CV_MAJOR_VERSION < 3
     #include "opencv2/ts/ts.hpp"
 #else
-    #include "opencv2/ts.hpp"
+    #include "opencv2/ts/ts.hpp"
 #endif
 
 #include <iostream>
